@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PJYAC\AndroidStudioProjects\PoIBroadcastReceiver\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="45af78c3bf449a366f72979ad61eda9716b737e5">
+        <dex dex="C:\Users\PJYAC\AndroidStudioProjects\PoIBroadcastReceiver\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2db1e1d9ea8a48d9cb4f44b9a91dcef9bd2515fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PJYAC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\PJYAC\AndroidStudioProjects\PoIBroadcastReceiver\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_12c98badf6c720c22f9bb283a9d29b87dbef3a2e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\PJYAC\AndroidStudioProjects\PoIBroadcastReceiver\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="fc97c6e1c862af91cd2421c2f5a435aef473a698">
+        <dex dex="C:\Users\PJYAC\AndroidStudioProjects\PoIBroadcastReceiver\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_548fc74d2b406936449569c78f6e2e839cb78b7d\classes.dex" />
+    </item>
+
+</items>
